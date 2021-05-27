@@ -1,1 +1,5 @@
-# UdemyCourseRecommender
+# EXPLORATORY-ANALYSIS-AND-COURSE-RECOMMENDATION-USING-UDEMY-DATSET
+<br>
+The project aims at developing a Course Recommendation System for recommending courses present in udemy database. With rising and use of online platforms for developing educational systems, use of techniques like recoomendation engines cna help business target and attract more audiences to their product websites. This further leads to larger numebr of subscribers for existing courses. The customer on the other side also benifits as he is able to get faster access to thecourses which are most simillar to his preferred skills and desired courses.
+
+This project focuses on both data cleaning, data analysis of existing dataset and also the implementation of the recommendation engine. The dataset used is the latest datset on Udemy Courses available on Kaggle. Explratory data analysis is performed to answer a wide variety of questions and to understand and establish intiutive relationships between features. This is achieved via various plots and graphs between the feature sets using data visualization tools. The similarity indexed chosen for the recommender system development is Cosine Similarity. The index has wide spread application in development of recommendation engines.
