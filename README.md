@@ -1,4 +1,4 @@
-# EXPLORATORY-ANALYSIS-AND-COURSE-RECOMMENDATION-USING-UDEMY-DATSET
+# COURSE RECOMMENDATION & SUBJECT CLASSIFICATION on UDEMY DATSET
 <br>
 The project aims at developing a Course Recommendation System for recommending courses present in Udemy database. With rising and use of online platforms for developing educational systems, use of techniques like recommendation engines can help business target and attract more audiences to their product websites. This further leads to larger number of subscribers for existing courses. The customer on the other side also benefits as he is able to get faster access to the courses which are most similar to his preferred skills and desired courses.
 <br>
